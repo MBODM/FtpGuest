@@ -1,0 +1,10 @@
+﻿@model HomeViewModel
+
+@section HeaderImage {Home.png}
+@section HeaderText {Willkommen bei @Model.AppName}
+
+<h3>Was möchten Sie tun ?</h3>
+<ul>
+    <li>@Html.ActionLink("Eine Datei hochladen", "Index", "Upload")</li>
+    <li>@Html.ActionLink("Eine Datei herunterladen", "Index", "Download")</li>
+</ul>
