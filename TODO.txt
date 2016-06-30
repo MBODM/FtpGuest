@@ -1,5 +1,0 @@
-todo:
-
-- align download delete-buttons vertically middle.
-- implement own back button, to prevent loops and old content, while navigating.
-- change ftp direcotry and file listing to make no difference between uppercase and lowercase.
