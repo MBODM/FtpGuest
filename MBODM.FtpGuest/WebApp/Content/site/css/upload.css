@@ -1,0 +1,16 @@
+﻿#statusText {
+    margin-bottom: 3px;
+}
+
+#progressBar {
+    display: none;
+    width: 359px;
+    height: 6px;
+    border: 1px solid gray;
+    background-color: lightgray;
+}
+
+#progressBarInnerBlock {
+    height: 6px;
+    background-color: steelblue;
+}
